@@ -32,7 +32,7 @@ Sadness: This text expresses sadness, sorrow, grief, melancholy, depression, hea
 
 ## Technical Pipeline
 
-#<img width="666" height="251" alt="Screenshot 2025-11-17 at 23 45 24" src="https://github.com/user-attachments/assets/2232abc8-fc6f-42e9-a7df-bd57178dc533" />
+<img width="666" height="251" alt="Screenshot 2025-11-17 at 23 45 24" src="https://github.com/user-attachments/assets/2232abc8-fc6f-42e9-a7df-bd57178dc533" />
 ## 1. CNN-Based Emotion Recognition Model
 - ResNet-based CNN trained to predict 9 emotion classes
 - Extracts 512D embeddings from penultimate layer
@@ -92,12 +92,7 @@ cd BookTunes
 pip install -r requirements.txt
 ```
 
-## Usage
-
-```python
-aryaan: how to run the code, etc
-```
-
 ## Future Improvements
 
 - Enhance music quality of generated tracks
+- Update to our CNN model since we saw there may be overfitting
