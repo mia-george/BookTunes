@@ -33,7 +33,8 @@ Sadness: This text expresses sadness, sorrow, grief, melancholy, depression, hea
 ## Technical Pipeline
 
 <img width="666" height="251" alt="Screenshot 2025-11-17 at 23 45 24" src="https://github.com/user-attachments/assets/2232abc8-fc6f-42e9-a7df-bd57178dc533" />
-## 1. CNN-Based Emotion Recognition Model
+
+### 1. CNN-Based Emotion Recognition Model
 - ResNet-based CNN trained to predict 9 emotion classes
 - Extracts 512D embeddings from penultimate layer
 - Reduced to 128D via PCA for efficient retrieval
