@@ -13,15 +13,22 @@ BookTunes creates an immersive reading experience by matching the emotional cont
 
 The system works with nine emotion categories mapped to both text and music:
 
-- **Amazement** – Feeling of wonder and happiness
-- **Solemnity** – Feeling of transcendence, inspiration, thrills
-- **Tenderness** – Sensuality, affection, feeling of love
-- **Nostalgia** – Dreamy, melancholic, sentimental feelings
-- **Calmness** – Relaxation, serenity, meditativeness
-- **Power** – Feeling strong, heroic, triumphant, energetic
-- **Joyful activation** – Feels like dancing, bouncy feeling, animated, amused
-- **Tension** – Nervous, impatient, irritated
-- **Sadness** – Depressed, sorrowful
+- **Amazement**: This text expresses wonder, awe, astonishment, breathtaking discovery, miraculous revelation, epic grandeur, magnificent spectacle, inspiring triumph, jaw-dropping beauty, cosmic scale, overwhelming majesty.
+
+- **Solemnity**: This text expresses solemnity, reverence, dignity, sacred ceremony, spiritual depth, formal gravity, serious contemplation, religious devotion, ritual importance, profound respect, weighty significance.
+
+- **Tenderness**: This text expresses tenderness, warmth, gentleness, intimate affection, caring love, emotional closeness, soft vulnerability, protective nurturing, delicate sensitivity, heartfelt compassion, sweet devotion.
+
+- **Nostalgia**: This text expresses nostalgia, longing for the past, bittersweet memories, wistful reminiscence, yearning for old times, sentimental reflection, missing what was, remembering yesterday, looking back fondly, homesickness, lost innocence.
+
+- **Calmness**: This text expresses calmness, peace, tranquility, serenity, stillness, relaxation, quietness, meditation, gentle ease, untroubled mind, soothing comfort, restful contentment, peaceful silence.
+
+- **Power**: This text expresses power, strength, energy, boldness, heroism, triumph, victory, confidence, determination, dominance, intensity, explosive force, unstoppable drive, fierce courage, commanding presence.
+
+- **Joyful activation**: 'This text expresses joy, happiness, excitement, playfulness, fun, celebration, cheerfulness, enthusiasm, lively energy, dancing spirit, positive vibes, exuberance, delightful pleasure, upbeat optimism.',
+
+- **Tension**:'This text expresses tension, stress, anxiety, nervousness, unease, worry, suspense, fear, restlessness, discomfort, apprehension, dread, agitation, uncertainty, foreboding danger, tightness, pressure.
+Sadness: This text expresses sadness, sorrow, grief, melancholy, depression, heartbreak, loss, despair, loneliness, pain, crying, suffering, hopelessness, emptiness, mourning, tearful anguish, emotional hurt.
 
 ## Technical Pipeline
 
