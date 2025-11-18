@@ -1,6 +1,6 @@
 # BookTunes
 
-An AI-powered system that generates emotion-aligned soundtracks for books by analyzing text on a page-by-page basis and selecting suitable music pieces from a predefined library.
+An AI powered system that generates emotion aligned soundtracks for books by analyzing text on a page by page basis and selecting suitable music pieces from a predefined library.
 
 ## Team
 Mia George, Aryaan Peshoton, Srija Kethireddy
