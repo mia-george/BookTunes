@@ -90,7 +90,6 @@ Sadness: This text expresses sadness, sorrow, grief, melancholy, depression, hea
 ```bash
 git clone https://github.com/mia-george/BookTunes.git
 cd BookTunes
-pip install -r requirements.txt
 ```
 
 ## Future Improvements
